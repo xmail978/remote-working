@@ -1,5 +1,6 @@
 # 2017年文章
 
+- [如何进行远程设计冲刺——给远程办公团队的小窍门](https://mp.weixin.qq.com/s/-t-92thU3wuTSXmKxeoeeQ)
 - [2018年38种自由职业大盘点](http://www.wocation.cc/2017/12/15/123/)
 - [远程两年之后，工作生活小结](https://zhuanlan.zhihu.com/p/31884972)
 - [为什么越来越多的创业公司选择远程工作？](https://news.cnblogs.com/n/583905/)
@@ -24,7 +25,7 @@
 - [远程办公 当梦想成为现实](http://paper.people.com.cn/rmrbhwb/html/2017-09/11/content_1804329.htm)
 - [“百城万人”残疾人远程就业公益项目](https://mp.weixin.qq.com/s/5gMTNPOcLH-yoN7BmvgAOA)
 - [孤独狩猎——选择自由职业的年轻人们](https://www.douban.com/note/633805058/)
-- [4个月的远程经验分享 奶爸的远程工作之路](http://yizaoyiwan.com/discussions/1398)
+- [4个月的远程经验分享 奶爸的远程工作之路](https://zhuanlan.zhihu.com/p/28653189)
 - [远程工作时，员工该如何协调与领导之间关系？](http://36kr.com/p/5085175.html)
 - [年纪越大写代码越慢](https://www.v2ex.com/t/384472)
 - [TED 团队告诉你：如何突破远程办公的局限](https://weibo.com/ttarticle/p/show?id=2309404129081133260111)

@@ -16,12 +16,24 @@
 
 ---
 
-**[广告]** 【5折】Design+Code 绝佳的设计和编程在线教程 1 年订阅，￥356 ( 原价 108 美元 ) - [了解一下](https://j.youzan.com/tkpQyi)
+**[公益活动推广]**
+
+[1周时间，18个人，2000多口罩，我们能做到什么？](https://mp.weixin.qq.com/s/WON0OPn_l0-ESuF0hu2jAQ)
+
+- 2000个口罩：500来自捐赠，1500个是我们集中采购；
+- 捐款目前用掉2642元，还剩2538元；
+- 4个援助城市：加拿大#温哥华、渥太华、温尼伯、布兰登
+- 以每家平均收到10个口罩计算，这批口罩将帮助到200个华人家庭
+- 18个志愿者来自不同城市，职业各异，素不相识。
+
+> 这是一个远程协作的公益活动，除了物流等必须线下进行的活动外，其它协作都在线上完成，
+> 希望大家帮忙转发，帮助到更多的海外同胞。
 
 ---
 
 ## <a name="toc"></a> 目录
 
+- [常见问题](#faq)
 - [文章和讨论](#articles)
 - [影音资料](#media)
 - [演示文稿](#slides)
@@ -38,10 +50,70 @@
 - [其它资源](#others)
 - [贡献者列表](#contributors)
 
+## <a name="faq" href="#faq">常见问题</a>
+
+你是否适合远程工作？
+
+- [你是否适合 [远程工作] ？？](https://www.v2ex.com/t/589443)
+
+怎么解决社保和纳税？
+
+- [各位对外远程开发者, 怎么管理个人所得税?](https://www.v2ex.com/t/588882)
+
+[⬆︎返回目录](#toc)
+
 ## <a name="articles" href="#articles">文章和讨论</a>
+
+#### 2020年
+
+- [如何在 Upwork 上开启自由之路](https://eleduck.com/posts/JpfxZ5)
+- [如何 4 步找到理想的远程工作](https://eleduck.com/posts/qzfjjR)
+- [作为自由职业者，我的近况](https://eleduck.com/posts/gYf8vQ)
+- [同时区的同事一个都没有！Buffer 成员是如何全球远程协作的？](https://eleduck.com/posts/ZXfOr0)
+- [机械设计师的远程工作之路](https://zhuanlan.zhihu.com/p/61558139)
+- [一些个人为美国公司远程工作的经验分享 -- 工作部分](https://eleduck.com/posts/ea4fOq)
+- [一个远程工作者的思考与分享](https://eleduck.com/posts/6N0fgr)
+- [分享下自由工作的状态以及自己的思考](https://eleduck.com/posts/Mb2fvD)
+- [远程工作是成年人的游戏](https://terrytai.me/yuan-cheng-gong-zuo-shi-cheng-nian-ren-de-you-xi)
+- [远程 2 年、小米对讲机产品负责人 4 年 → 重启自由探索](https://eleduck.com/posts/6yGfOb)
+- [千万不要在床上工作，因为...](https://eleduck.com/posts/6QZfGA)
+- [千万不要成为自由职业者 - 过来人经验](https://mp.weixin.qq.com/s/AKZVKQrv1hMdWxLipscGRg)
+- [现代文明社会就该长期在家办公](https://mp.weixin.qq.com/s/-lIyIlUkomWrlwUoW3b5lg)
+- [远程办公如何保持高效？资深敏捷教练为你支招！](https://mp.weixin.qq.com/s/ycTMzU6c3EK633TMxYsZtw)
+- [远程工作的一些思考](https://zensky123.github.io/Some-thoughts-on-remote-working.html)
+- [远程办公: 如何边工作，边带孩子？](https://mp.weixin.qq.com/s/zIHpD_7v1AU1zSLNIECPbg)
+- [与其困在家里，不如思考一下互联网副业?](https://littledew.com/p/3265.html)
+- [PingCAP 的 5 年远程办公实践](https://mp.weixin.qq.com/s/alygC64BnIKbuuxBBZAOxA)
+- [MegaEase 的远程工作文化](https://coolshell.cn/articles/20765.html)
+- [延迟上班别发愁，远程办公抗疫情！](https://mp.weixin.qq.com/s/HzlMCu9-s-jlRwBUlQknKw)
+- [不想员工冒着被感染的风险，但也不想公司面临危机，倒不如尝试远程工作？](https://mp.weixin.qq.com/s/DRy8YhQ662DHr65LdKszSA)
+- [Slasify的远程工作实战小贴士](https://eleduck.com/posts/PgYfnr)
+- [想体验一下自由职业或远程办公？现在或许是个机会](https://mp.weixin.qq.com/s/gDaOSThvxIqJh3x2s-fklg)
+- [远程办公: 如何提高自制力？](https://ruby-china.org/topics/39469)
+- [推迟上班 & 远程上班的公司 和 坚持早来上班的公司 List](https://www.v2ex.com/t/640466)
+- [如何寻找一份远程工作](https://mp.weixin.qq.com/s/C3zKje3YBqKQ0XwKxyPpfg)
+- [如何攻克异地协作难题？看 Tower 的 72 个月远程工作实践](https://www.infoq.cn/article/swdsWXKasCMU0ePyBCSs?utm_source=rss&utm_medium=article)
 
 #### 2019年
 
+- [【开怼吧】第37: 移动办公最终会取代传统办公模式吗？](https://bbs.sangfor.com.cn/forum.php?mod=viewthread&tid=67681)
+- [ZEIT.co 是什么样一个组织?](https://www.zhihu.com/question/59278159/answer/813629215)
+- [一个三十多岁自由职业者的现实和未来](https://mp.weixin.qq.com/s/2L2NLsCP1-TTzWZCXE3PFA)
+- [想要遠距工作，你準備好了嗎?(上) | 超衝擊的五大難關](https://medium.com/remote-taiwan/%E6%83%B3%E8%A6%81%E9%81%A0%E8%B7%9D%E5%B7%A5%E4%BD%9C-%E4%BD%A0%E6%BA%96%E5%82%99%E5%A5%BD%E4%BA%86%E5%97%8E-%E4%B8%8A-%E8%B6%85%E8%A1%9D%E6%93%8A%E7%9A%84%E4%BA%94%E5%A4%A7%E9%9B%A3%E9%97%9C-8e6cb9096b86)
+- [数码游民之旅1 - 清迈](https://zhuanlan.zhihu.com/p/94636518)
+- [有偿解题 - 记第一次发包](https://eleduck.com/posts/Mb2foM)
+- [自我时间管理的前提是先建立「时间意识」| 电鸭访谈 x Rita](https://eleduck.com/posts/eVvfAa)
+- [再从（新人）雇主的角度谈谈远程工作的经历和坑](https://eleduck.com/posts/POGfwR)
+- [这是你希望的自由职业么](https://mp.weixin.qq.com/s/FdPj31F5zSdUP3MrtQCCNA)
+- [关于远程工作的一些思考](https://mp.weixin.qq.com/s/Z2qudLcK4i5DGaFaDdMLag)
+- [自由职人 | 姜赟：爱精酿玩乐队的程序员](https://mp.weixin.qq.com/s/3ALaKVq9capfzIoaAVDUnw)
+- [读《Remote2》聊聊远程工作](https://juejin.im/post/5d6bc1aff265da039f12cff6)
+- [远程一年的总结](https://www.v2ex.com/t/595749)
+- [写给远程工作一周年的日子](https://learnku.com/articles/32622)
+- [浅谈跨境跨区远程工作下的EoR劳务模式](https://zhuanlan.zhihu.com/p/77090241)
+- [各位对外远程开发者, 怎么管理个人所得税?](https://www.v2ex.com/t/588882)
+- [如何找到时薪 80 美元的远程工作（一）](https://geekplux.com/2019/07/31/how-to-get-jobs-pay-80-dollars-per-hour-1/)
+- [如何找到时薪 80 美元的远程工作（二）](https://geekplux.com/2019/07/31/how-to-get-jobs-pay-80-dollars-per-hour-2/)
 - [远程工作和外包接案有什么不同？](https://zhuanlan.zhihu.com/p/72083042)
 - [远程工作的四年](https://www.v2ex.com/t/575190)
 - [远程工作者的一天](https://blog.minghe.me/a-day-of-remote-worker/)
@@ -66,6 +138,7 @@
 
 #### 2018年
 
+- [没有管理者的公司是如何做决策的](https://www.infoq.cn/article/decisions-company-no-managers/)
 - [怎样带着你的工作去远方？](http://www.zwgl.com.cn/cn/66423170.html)
 - [我的2018 – 自由开发者的一年](https://xinle.co/2018/12/28/%E6%88%91%E7%9A%842018-%E8%87%AA%E7%94%B1%E5%BC%80%E5%8F%91%E8%80%85%E7%9A%84%E4%B8%80%E5%B9%B4/)
 - [异地技术团队高效协作的经验分享](https://juejin.im/post/5c09d75b51882516cd70d87b)
@@ -117,14 +190,23 @@
 - [记录009：远程工作需要注意什么-180107](https://mp.weixin.qq.com/s/JW2ZdfYwPiR_HJS9TatHMQ)
 - [远程工作看起来理想，但其实有些压力你可能不会想到](https://www.qdaily.com/articles/48777.html)
 - [除了拖延，远程工作的压力还来自“不知道老板在想什么”](https://mp.weixin.qq.com/s/kmgFuuNIKcDW2dt2OuPHCA)
+- [程序员远程工作那些事儿 Live 演讲稿](https://zhuanlan.zhihu.com/p/41159126)
 
 [⬅︎往年文章](articles/)
 [⬆︎返回目录](#toc)
 
 ## <a name="media" href="#media">影音资料</a>
 
+#### 2020年
+
+- [流动人口 #2: 听远程七年的程序员分享他的工作经历，一起探远程工作的未来](https://music.163.com/#/program?id=2066533937&userid=51139069)
+- [不可避免的远程办公 - 胡键 #GDG西安三月线上直播活动](https://www.bilibili.com/video/av94748858)
+- [回形针如何远程办公](https://mp.weixin.qq.com/s/J9RhOU-skEfcd_aHmk9OBA?)
+
 #### 2019年
 
+- [ZiYo 开播闲聊：自由职业很环保](https://mp.weixin.qq.com/s/fLBOLozSUJCyLCl_zINJ_Q)
+- [煽风点火 ｜ 对谈中国数字游民社群群主Jarod，如何一边旅行一边赚钱？](https://mp.weixin.qq.com/s/NvxBscmozCIGGd6_whHcdg)
 - [什么是远程工作，我是如何远程工作的？](https://www.bilibili.com/video/av49314633)
 - [180° 第十六期 • 自由全栈设计师丁一](https://anyway.fm/dingyi/)
 
@@ -137,6 +219,7 @@
 - [知乎Live - 业余时间赚钱的6种策略](https://www.zhihu.com/lives/870704471959822336)
 - [Cathy流浪记：如何变旅行边工作，成为数字游民](https://www.bilibili.com/video/av21642180/)
 - [不一·FM Vol. 02 吴博：用户遍布世界的自由 Web 设计师](https://www.lizhi.fm/49020635/2650025155245500422)
+- [知乎Live - 程序员远程工作那些事](https://www.zhihu.com/lives/1002975865147355136)
 
 #### 2017年
 
@@ -182,6 +265,7 @@
 
 ## <a name="reports" href="#reports">调查报告</a>
 
+- [不用上班，他们的生活过得怎么样？| KY调研：自由职业从业指南](https://mp.weixin.qq.com/s/cZC8qL1x9ksddARC7L7cvQ)
 - [远程工作元年 - 2015 国内远程工作群体报告 (上篇)](http://yizaoyiwan.com/discussions/733)
 - [远程工作元年 - 2015 国内远程工作群体报告 (下篇)](http://yizaoyiwan.com/discussions/747)
 
@@ -245,16 +329,18 @@
 
 ## <a name="jobs" href="#jobs">招聘网站</a>
 
-- [一早一晚招聘](http://yizaoyiwan.com/categories/employer) - 一早一晚社区的招聘版块
+- [一早一晚招聘](https://3cwork.com/discussions?category=jobs) - 一早一晚社区的招聘版块
+- [无涯远程工作](https://www.wuya.work/) - 国内外适合国人的远程职位推荐
 - [Ruby China 招聘版块](https://ruby-china.org/jobs)
 - [Laravel 招聘版块](https://learnku.com/laravel/c/php-jobs)
 - [SegmentFault 招聘](https://segmentfault.com/jobs/search?remote=1) - SegmentFault 的招聘版块中支持按远程筛选
-- [七星远程](http://www.remotejob.cn/) - 远程工作招聘信息的聚合网站
 - [远程.work](http://yuancheng.work/) - 远程工作招聘信息的聚合网站
 - [Indeed \| 远程](https://cn.indeed.com/%E5%B7%A5%E4%BD%9C-%E8%BF%9C%E7%A8%8B%E5%8A%9E%E5%85%AC) - Indeed 远程办公版块，可以找到一些非研发类的远程工作
 - [中画论坛 - 插画征稿招聘](http://bbs.chahua.org/thread.php?fid=8&page=1) - 经常会有插画师的远程全职或者兼职工作机会
 - [Slasify](https://slasify.com/) - 连结来自全球的遠程工作者组成跨领域的虚拟团队，为企业提供更灵活的人才运用場景
-- [远程工作](https://job.solitud.es/) - 集合来自各个社区与网站上的远程机会
+- [小蜜蜂远程工作](https://www.xmf.com/) - 面向三线城市提供远程工作机会
+- [云队友远程工作](https://www.nework360.com/) - PMCAFF旗下，主要是技术、设计、运营类的远程工作
+- [画师联盟 - 远程岗位](https://www.huashilm.com/job?jobType=2) - 画师联盟的招聘频道，职位主要是主笔，勾线，上色等，可以按远程筛选
 
 [⬆︎返回目录](#toc)
 
@@ -263,13 +349,13 @@
 论坛和聊天工具群组等。
 
 - [一早一晚](http://yizaoyiwan.com/)
-- [V2MM](https://v2mm.tech/)
-- [角马原力社区](http://www.gnuforce.com/community)
+- [~~V2MM~~](https://v2mm.tech/)
 - [豆瓣小组 - 远程工作者](https://www.douban.com/group/remoteworking)
 - [豆瓣小组 - 远程工作党](https://www.douban.com/group/freejobs/)
 - [豆瓣小组 - 兼职文案](https://www.douban.com/group/292715/)
 - [豆瓣小组 - 英语兼职](https://www.douban.com/group/524795/)
-- [Upwork中国社群](https://www.kancloud.cn/jielinko/upwork-bbs/380491)
+- [V2EX - 远程工作](https://www.v2ex.com/go/remote)
+- [脸书小组 - 台湾远程工作](https://www.facebook.com/groups/remotetaiwan/)
 
 ## <a name="blogs" href="#blogs">博客媒体</a>
 
@@ -286,6 +372,9 @@
 - [松木巴士 | 房车改装及游牧生活](https://zhuanlan.zhihu.com/c_155023320) - 房车改装和游牧生活经验分享
 - [远程客](https://yuanchengke.com/])
 - [自由职业者俱乐部](https://tinyletter.com/bobjiang) - 一个分享自由职业者成长故事的邮件列表
+- [远程与天边](https://blockflats.com/) - 聚合关于远程工作，独立开发者访谈，自由职业经历分享，增长黑客，盈利产品案例分析等信息，实践“只工作，不上班”的自由工作之路
+- [艾莉森王](https://space.bilibili.com/14621086) - 艾莉森王的B站空间，数字游民 / 自我提升 / 瑜伽 / 成长
+- [NataliaMok](https://nataliamok.com/) - 地理套利、生活方式设计
 
 ## <a name="wechat" href="#wechat"> 微信公众号</a>
 
@@ -298,8 +387,7 @@
 ## <a name="outsource" href="#outsource">外包平台</a>
 
 - [码市](https://mart.coding.net)
-- [大鲲](https://pro.lagou.com/)
-- [英选](https://www.linktion.cn/ )
+- [英选](https://www.yingxuan.io)
 - [程序员客栈](https://www.proginn.com/)
 - [厘米脚印](http://www.limijiaoyin.com/)
 - [实现网](http://shixian.com/)
@@ -327,6 +415,7 @@
 - [百分之八十](https://www.80percent.io/)
 - [Bento](https://makebento.com/) / [ref](https://www.v2ex.com/t/486904)
 - [BespinGlobal](https://www.bespinglobal.com/) / [ref](https://www.v2ex.com/t/495432)
+- [Byzan Team](https://github.com/Byzanteam/handbook) / [ref](https://www.v2ex.com/t/591973)
 - [彩程设计](https://tower.im/about_us)
 - [橙陌科技](https://www.cmcm.us/)
 - [程沛科技](https://www.extreamax.com/) / [ref](https://slasify.com/en/remote-job/5ca1ea4b52101826e601de3e)
@@ -347,15 +436,20 @@
 - [Focus Solutions](https://www.focussi.com/) / [ref](https://yizaoyiwan.com/discussions/12141)
 - [房智汇](https://housesigma.com) / [ref](https://www.v2ex.com/t/539071)
 - [Growthhash](https://fanbi.io/) / [ref](https://www.v2ex.com/t/460188)
+- [光速软件](https://www.velosoft.cn/) / [ref](https://www.v2ex.com/t/609288)
 - [杭州巴比特](http://www.8btc.com/) / [ref](https://ruby-china.org/topics/34882)
 - [杭州天车团队](https://ruby-china.org/tianche)
 - [杭州知鹏网络科技有限公司](http://www.xueshifudao.com/) / [ref](http://www.ciweishixi.com/job/detail-77466.html)
 - [Integem](http://integem.com/) / [ref](https://www.v2ex.com/t/434444)
+- [机器之心](https://www.jiqizhixin.com/)
+- [Tian Pan](https://tianpan.co/about/) / [ref](https://tianpan.co/careers)
 - [imToken](https://token.im/careers)
 - [开发邦](http://www.kaifabang.com/) / [ref](https://mp.weixin.qq.com/s/Dy9S3ibPLdJ9sUbzW4-hRg)
-- [另客网](https://www.links123.com/) / [ref](http://yizaoyiwan.com/discussions/1617)
+- [双语帮](https://www.bilingo.com/) / [ref](https://www.v2ex.com/t/642691)
+- [量城科技](https://quanturban.com/) / [ref](https://www.v2ex.com/t/592017)
 - [lordless](http://lordless.io/) / [ref](https://mp.weixin.qq.com/s/omAvRg7xflFL7k5c3UVbSQ)
 - [LodeStream](https://lodestream.com/) / [ref](https://yizaoyiwan.com/discussions/12002)
+- [lnxprotocol](https://lnxprotocol.io/) / [ref](https://rust.cc/article?id=5010e335-3fad-40d9-b02e-82334d6f585e)
 - [墨刀](https://modao.cc/)
 - [美国信用卡指南](https://www.uscreditcardguide.com/zh/) / [ref](http://yizaoyiwan.com/discussions/1628)
 - [米扑科技](https://mimvp.com/) / [ref](https://mp.weixin.qq.com/s/Bno5cgL5h9fDbJ3UktnTwg)
@@ -384,11 +478,12 @@
 - [数码荔枝](https://www.lizhi.io)
 - [深圳骐骥网络](https://www.lagou.com/gongsi/207072.html) / [ref](https://mp.weixin.qq.com/s/S4J-7-PXelaqPwpTT9iO3Q)
 - [识墨笔记](https://itunes.apple.com/cn/app/%E8%AF%86%E5%A2%A8%E7%AC%94%E8%AE%B0-%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB-%E6%89%AB%E6%8F%8F-%E4%BA%91%E7%AC%94%E8%AE%B0/id1222111073?mt=8) / [ref](https://zhuanlan.zhihu.com/p/37862204)
+- [Wiredcraft](https://wiredcraft.com/) / [ref](https://v2ex.com/t/617521)
 - [燧炻创新](https://fydeos.com/) / [ref](https://www.v2ex.com/t/562655)
 - [Techbay](http://www.techbay.club/)
 - [Thus 如是设计](http://thus.in/)
 - [新小科技](https://xinxiao.xyz/) / [ref](https://www.v2ex.com/t/552304)
-- [优帆远扬](https://yousails.com/)
+- [优帆远扬](https://yousails.com/) / [ref](https://learnku.com/laravel/t/33203)
 - [云印小站](http://printinn.cn/) / [ref](https://mp.weixin.qq.com/s/nG8Mr4jCGKapstuh15hG5w)
 - [极忆](https://imemoryer.com/) / [ref](https://www.v2ex.com/t/547238)
 - [铸匠科技](http://zjtech.cc/)
@@ -409,8 +504,12 @@
 
 翻译类
 
-* [山东智慧译百信息技术有限公司](https://www.xmf.com/company/3156.html) / [ref](https://www.xmf.com/job/6176.html)
+- [山东智慧译百信息技术有限公司](https://www.xmf.com/company/3156.html) / [ref](https://www.xmf.com/job/6176.html)
 
+其它
+
+- [北京萌爪科技](http://www.wecarepet.com/)
+- [新义互联](https://adtalos.com) / [ref](https://www.v2ex.com/t/636871)
 
 [⬆︎返回目录](#toc)
 
@@ -420,8 +519,11 @@
 - [国内又有了新的远程工作机会](http://m.ruguoapp.com/topics/58a12fe772a4680014bdee24) - 一个即刻的提醒
 - [远程手记](https://zhuanlan.zhihu.com/yidianyidi) - 关于远程，所有你想知道的，我知无不言
 - [怎样做一个只工作不上班的自由职业者](https://www.zhihu.com/collection/215602507) - 一个知乎收藏夹
+- [专题-自由职业之路](https://github.com/efonmark/efonmark-blog/blob/master/04-%E4%B8%93%E9%A2%98/2019-11-04-%E4%B8%93%E9%A2%98-%E8%87%AA%E7%94%B1%E8%81%8C%E4%B8%9A%E4%B9%8B%E8%B7%AF.md)
 - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources.
 - [NODESK](https://nodesk.co/) - A curated collection of resources for the digital nomad, remote worker and traveling professional.
+- [remote-jobs](https://github.com/remoteintech/remote-jobs) - 半远程或完全远程公司的列表
+- [open-source-jobs](https://github.com/t9tio/open-source-jobs) - 提供工作的开源项目列表
 
 
 [⬆︎返回目录](#toc)
@@ -432,15 +534,15 @@
 
 贡献者 | 提交次数
 :----------- | -------:
-<img src="https://avatars1.githubusercontent.com/u/208966?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/greatghoul">greatghoul</a> | 468
-<img src="https://avatars0.githubusercontent.com/u/1465894?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/mittya">mittya</a> | 5
+<img src="https://avatars1.githubusercontent.com/u/208966?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/greatghoul">greatghoul</a> | 577
+<img src="https://avatars0.githubusercontent.com/u/1465894?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/mittya">mittya</a> | 6
 <img src="https://avatars2.githubusercontent.com/u/1574884?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/howiehu">howiehu</a> | 4
 <img src="https://avatars1.githubusercontent.com/u/6696864?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/fcode520">fcode520</a> | 3
+<img src="https://avatars3.githubusercontent.com/u/25007570?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/schizobulia">schizobulia</a> | 3
+<img src="https://avatars0.githubusercontent.com/u/5461667?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/cnkevinlee">cnkevinlee</a> | 3
+<img src="https://avatars0.githubusercontent.com/u/29243953?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/naiba">naiba</a> | 3
 <img src="https://avatars1.githubusercontent.com/u/1734421?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/lankeren">lankeren</a> | 3
-<img src="https://avatars0.githubusercontent.com/u/3056030?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/seaify">seaify</a> | 2
-<img src="https://avatars0.githubusercontent.com/u/291258?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/windy">windy</a> | 2
-<img src="https://avatars3.githubusercontent.com/u/437409?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/meathill">meathill</a> | 2
 <img src="https://avatars0.githubusercontent.com/u/1961117?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/ychongsaytc">ychongsaytc</a> | 2
-<img src="https://avatars0.githubusercontent.com/u/2424092?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/VilenEera">VilenEera</a> | 2
+<img src="https://avatars1.githubusercontent.com/u/1000669?v=4" width="18" height="18" style="vertical-align:middle;"> <a href="https://api.github.com/users/JuanitoFatas">JuanitoFatas</a> | 2
 
 [⬆︎返回目录](#toc)

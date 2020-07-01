@@ -1,5 +1,7 @@
 # 2016年文章
 
+- [让开发者更开心、更高效的远程工作是否适合你呢？](https://juejin.im/entry/57c6881c165abd00667cca7a)
+- [低效？有时是因为没有找到对的地方去工作](https://3cwork.com/discussions/755)
 - [远程办公员工十年翻番 数字游民会成主流吗？](https://mp.weixin.qq.com/s/6bjdsBFBwba2JmZBWgJ7wg)
 - [为什么上班和下班已经过时](https://ruanyf.github.io/survivor/collapse/remote-work.html)
 - [做技术的，如何找到一个远程办公的工作？](https://www.zhihu.com/question/52118159/answer/136558447)
@@ -8,7 +10,7 @@
 - [Lonely Office—逃离办公室小格子的正确姿势](https://zhuanlan.zhihu.com/p/21901601)
 - [未来，在家工作在什么时候可以普及？](https://www.zhihu.com/question/50965940)
 - [作为程序员从自由职业到远程工作三年记](http://yanjunyi.com/blog/posts/freelance-3-years)
-- [一年多远程工作带给我的感悟](http://www.jianshu.com/p/971e380f60ab)
+- [一年多远程工作带给我的感悟](https://github.com/siddontang/blog/blob/master/2016/my-remote-work.md)
 - [9 个城市的远程协作办公，如何让 15 人团队整体创收过千万？](http://www.jianshu.com/p/348c6397c98a)
 - [从自由到自律，一个远程工作者的自述](https://www.v2ex.com/t/301743)
 - [远程工作者怎么保证自己的工作效率](https://zhuanlan.zhihu.com/p/22069695)
